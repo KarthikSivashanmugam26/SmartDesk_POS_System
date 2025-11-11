@@ -1,11 +1,16 @@
-# SmartDesk_POS_System
-SmartDesk POS is a Python GUI application that automates billing, tracks inventory, and stores transaction data using SQLite.
-
 # SmartDesk POS System
 
 A Python-based Point of Sale (POS) desktop application designed to automate billing and inventory management for small scale businesses.
 
 ---
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project%20Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![GitHub stars](https://img.shields.io/github/stars/KarthikSivashanmugam26/SmartDesk_POS_System?style=social)
+
+
 
 ## 🚀 Features
 - Product inventory add/update/delete
